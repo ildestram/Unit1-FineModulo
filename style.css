@@ -84,11 +84,14 @@ aside {
     border-radius: 20px;
 }
 
+
+
 .first-blog-section {
     position: relative;
     margin-left: 38px;
     margin-top: 20px;
     line-height: 25px;
+    margin-bottom: 50px;
 }
 
 .imagesd {
@@ -99,10 +102,16 @@ aside {
 }
 
 .inline-flexblog {
-    width: 50vh;
+    width: 60vh;
     display: flex;
     justify-content: space-between;
 }
+
+#margin-higher {
+    margin-top: 80px;
+}
+
+
 
 
 
